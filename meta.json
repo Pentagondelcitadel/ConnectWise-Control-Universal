@@ -1,0 +1,23 @@
+{
+  "repo": "connectwise-control-universal",
+  "product": "ConnectWise Control Universal",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "remote-access",
+  "topics": [
+    "connectwise-control",
+    "connectwise-windows",
+    "remote-access-desktop",
+    "how-to-install-connectwise",
+    "connectwise-control-desktop-package",
+    "connectwise-workspace",
+    "connectwise-control-pro-tools",
+    "connectwise-suite",
+    "zentool-connectwise",
+    "connectwise-control-tool-9"
+  ],
+  "site": "zentool.art"
+}
